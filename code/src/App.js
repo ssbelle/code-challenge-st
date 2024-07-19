@@ -81,12 +81,3 @@ export default function App() {
     </div>
   );
 }
-
-// [12:23 p.m.] Jadav, Arpita
-// Show name,email,picture from users list
-
-// [12:30 p.m.] Jadav, Arpita
-// arpita.jadav@staples.ca
-
-// [12:30 p.m.] Afshar Mohammadi Tehrani, Alireza
-// alireza.tehrani@staples.ca
