@@ -24,7 +24,6 @@ export default function App() {
       await fetch("https://randomuser.me/api/?page=3&results=10").then(
         (response) =>
           response.json().then((users) => {
-            console.log("res", users.results);
             // Check for valid users array as response is inconsistent
             const data =
               users && users.results && users.results.length > 0
